@@ -1,0 +1,248 @@
+{
+   "bank_ids":[
+      2
+   ],
+   "write_date":"2017-07-19 16:47:00",
+   "purchase_warn_msg":false,
+   "website_meta_title":false,
+   "payment_next_action_date":false,
+   "invoice_ids":[
+      3,
+      2,
+      4
+   ],
+   "property_stock_customer":[
+      9,
+      "Partner Locations/Customers"
+   ],
+   "device_identity_ids":[
+
+   ],
+   "activity_date_deadline":false,
+   "team_id":false,
+   "type":"contact",
+   "message_channel_ids":[
+
+   ],
+   "unreconciled_aml_ids":[
+      9,
+      6,
+      12
+   ],
+   "activity_state":false,
+   "purchase_order_count":1,
+   "payment_next_action":false,
+   "last_website_so_id":false,
+   "supplier":false,
+   "notify_email":"none",
+   "message_bounce":0,
+   "state_id":false,
+   "id":8,
+   "bank_account_count":1,
+   "fax":false,
+   "purchase_warn":"no-message",
+   "journal_item_count":9,
+   "channel_ids":[
+
+   ],
+   "zip":"1300",
+   "issue_count":2,
+   "subscription_count":0,
+   "vat":false,
+   "active":true,
+   "create_uid":[
+      1,
+      "Administrator"
+   ],
+   "sale_order_ids":[
+      5,
+      1
+   ],
+   "property_stock_supplier":[
+      8,
+      "Partner Locations/Vendors"
+   ],
+   "property_payment_term_id":[
+      3,
+      "30 Net Days"
+   ],
+   "image_small":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a\nHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy\nMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABAAEADASIA\nAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA\nAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3\nODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm\np6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA\nAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx\nBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK\nU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3\nuLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii\ngAooooAKKKKACiiigApksiRRNJI6pGgLM7HAUDqSfSnEgAkkAAZ5rkfGEzaz9l8K2c7R3OpHfcFD\nhorNf9Y54OMnCLnqzegNNK7E3ZHM+CPiNf8Aiv4jX1o8sa6ObWR7KJY8FgkihZCTySyknHQYHHBJ\n7q/8X+HdK1A6ff63YW14ACYJZ1V+enHXnI4rzi7s4PD/AMedAW3VIrGeyFpGiuDsCxOoTGcjonXr\nSax4E1CLxrqPi3Unt4dItrhtUkWC5Z3m8mP90NjJ8rAgkncRzg                                                   CtJqN09lYypub93d3PQ/8AhOfC\n3mTx/wDCQ6Zvt0Z5h9pX92FYKd3p8xA5654qnN4/0qW80G30h01U6xdPBG1tKNsaxrukZv8AdBBx\n15qufhhoB8HxeGw12sUT+Yt4HX7SX8zzNxfbg8+oxwPQVDa/CjQLW7tboXOqPNCLjzGe65uWmGHa\nQgAknjpgcDINR7pp7xr/APCeeGZbW9ms9asb02dvJcSx29wjMETGT1wOSACSByOaqaf8Q9IvtY0f\nRmSaHVNStftP2dih8hdm9RIQ3DMvIAycDnFYkXwT8Ox2c9t/aWtsk1mLM5ul4QOHHATHUYwQR7Z5\nrpNM8E6bpfiJdciudQkulsUsds1yXQonRiOpb3JI5JwDR7oe8XLrU41mv5p2KWOlx+ZcH+84TzCP\noqFT7lh6V5d4Mt/F3jS8v9Z+0Noum6nKXnvYgPtM8QGEhhJHyIgz84AO4kjJ6dRf+Ik8FeItWj12\nzmOiapMtxDepGZUVjGqPHIO33Mgc8H8pLn4v+DbaJfst3cXj8KsNtauG/DeFH61KqximnudMsFWq\nNOCbXkcR8WNI07wbL4ZutB02KxkhZyLiINndGVZAx/iJ3Mck7jzz1ro4Lu/8TRaf4RmInudy3niK\ndR+7gBfzPsw5+8ThDg8BT15wt2fGHxGgayOmr4f0CUjzZLtN9xMAcjapHHY5wOnDHpXeeH/DuneG\ntMWw02HZHnc8jnLyv3Zz3J/+sMCh1HOKiEaMcNJzk7y6JdPNvv5feag6UtFFBgFFFFADWUOpVgCp\nGCCMg1Bb6fZ2jl7e1ghY9THGqk/kKs0UDu9gooooEFFFFABRRRQB/9k\u003d\n",
+   "user_id":false,
+   "phone":"+32 10 588 558",
+   "company_name":false,
+   "country_id":[
+      21,
+      "Belgium"
+   ],
+   "website_meta_keywords":false,
+   "message_is_follower":false,
+   "im_status":"offline",
+   "opt_out":false,
+   "ref_company_ids":[
+
+   ],
+   "city":"Wavre",
+   "image_medium":"/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a\nHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy\nMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACAAIADASIA\nAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA\nAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3\nODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm\np6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA\nAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx\nBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK\nU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3\nuLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii\ngAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA\nCiiigAooooAKQnFFVdSv7bStNudQvJBHbW0TSyueygZNAHK+NviPpfg+NrdcXmrMuY7ONuVyOGkP\n8K/qewrd8L66niTwzp+sRqE+1QhnQchHHDqM9QGBGa+XNd1OXXta1DXGtTCl1c5IAJCEqSqk/wB7\naufzr3f4MXJn+H0UZP8Ax73U0QHtu3f+zVvUpKMEzlpV3Oo10PQ6Wue8VeMtG8G2CXWrXDKZSVhg\niXdLKRjO1fbIyeAK5W0+N3hW+ltIbeLVXuLmQRJALX5gxYKoPzY5JGME/h0rFJ2udLkk7HpdFeeX\n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\n",
+   "child_ids":[
+      18,
+      33,
+      23,
+      22
+   ],
+   "last_time_entries_checked":false,
+   "category_id":[
+      10,
+      8
+   ],
+   "activities_count":0,
+   "commercial_partner_id":[
+      8,
+      "Agrolait"
+   ],
+   "street2":false,
+   "signup_url":false,
+   "debit":0.0,
+   "property_account_position_id":false,
+   "email":"agrolait@yourcompany.example.com",
+   "website":"http://www.agrolait.com",
+   "company_id":[
+      1,
+      "Demo Company"
+   ],
+   "supplier_invoice_count":0,
+   "invoice_warn_msg":false,
+   "contract_ids":[
+      7,
+      3,
+      4
+   ],
+   "user_ids":[
+
+   ],
+   "website_published":true,
+   "payment_token_count":0,
+   "task_ids":[
+
+   ],
+   "payment_token_ids":[
+
+   ],
+   "activity_type_id":false,
+   "signup_expiration":false,
+   "sale_order_count":2,
+   "website_url":"/partners/agrolait-8",
+   "self":[
+      8,
+      "Agrolait"
+   ],
+   "message_ids":[
+
+   ],
+   "is_company":true,
+   "parent_name":false,
+   "date":false,
+   "company_type":"company",
+   "sale_warn":"no-message",
+   "message_partner_ids":[
+
+   ],
+   "tz":false,
+   "employee":false,
+   "property_delivery_carrier_id":[
+      3,
+      "Normal Delivery Charges"
+   ],
+   "task_count":0,
+   "invoice_warn":"no-message",
+   "partner_share":true,
+   "property_purchase_currency_id":false,
+   "meeting_count":0,
+   "ref":false,
+   "activity_ids":[
+
+   ],
+   "website_short_description":"Axelor is a service company specializing in the integration of Open Source ERP. She is co-editor including the web version of Odoo and concentrates all its activities to Odoo integration and implementation of supply...",
+   "tz_offset":"+0000",
+   "commercial_company_name":"Agrolait",
+   "function":false,
+   "create_date":"2017-07-19 16:47:00",
+   "credit":5785.0,
+   "property_product_pricelist":[
+      3,
+      "Benelux (USD)"
+   ],
+   "barcode":"0420200000004",
+   "opportunity_count":4,
+   "image":"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\u003d\n",
+   "__last_update":"2017-07-19 16:47:00",
+   "activity_user_id":false,
+   "message_follower_ids":[
+
+   ],
+   "has_unreconciled_entries":false,
+   "display_name":"Agrolait",
+   "opportunity_ids":[
+      27,
+      26,
+      14,
+      15
+   ],
+   "picking_warn_msg":false,
+   "website_meta_description":false,
+   "parent_id":false,
+   "name":"Agrolait",
+   "total_invoiced":5785.0,
+   "trust":"normal",
+   "write_uid":[
+      1,
+      "Administrator"
+   ],
+   "color":0,
+   "event_count":1,
+   "debit_limit":0.0,
+   "title":false,
+   "message_unread":false,
+   "property_account_payable_id":[
+      13,
+      "111100 Account Payable"
+   ],
+   "street":"69 rue de Namur",
+   "calendar_last_notif_ack":false,
+   "pos_order_count":0,
+   "credit_limit":0.0,
+   "contracts_count":3,
+   "message_last_post":false,
+   "lang":"en_US",
+   "contact_address":"Agrolait\n69 rue de Namur\n\n1300 Wavre\nBelgium",
+   "email_formatted":"Agrolait \u003cagrolait@yourcompany.example.com\u003e",
+   "picking_warn":"no-message",
+   "commercial_partner_country_id":[
+      21,
+      "Belgium"
+   ],
+   "property_account_receivable_id":[
+      7,
+      "101200 Account Receivable"
+   ],
+   "issued_total":4610.0,
+   "mobile":false,
+   "meeting_ids":[
+
+   ],
+   "signup_valid":false,
+   "signup_type":false,
+   "message_unread_counter":0,
+   "sale_warn_msg":false,
+   "message_needaction":false,
+   "signup_token":false,
+   "activity_summary":false,
+   "message_needaction_counter":0,
+   "website_description":"\u003cp\u003eAxelor is a service company specializing in the integration of Open Source ERP. She is co-editor including the web version of Odoo and concentrates all its activities to Odoo integration and implementation of supply Saas (ASP) based on Odoo. Axelor can now claim many references to Odoo implementations in various industries.\u003cbr\u003e \u003cbr\u003e\nThe company has its own R\u0026amp;D performing many innovations to the continuous improvement of Odoo, such as the new web version, the plug-in MS Office and connectors to other applications. Its main advantages are its integration methodology and rigor to the management of major projects for the audit and design phase up to production and customer support.\u003c/p\u003e",
+   "property_supplier_payment_term_id":false,
+   "comment":false,
+   "currency_id":[
+      3,
+      "USD"
+   ],
+   "customer":true
+}

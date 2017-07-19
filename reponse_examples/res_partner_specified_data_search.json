@@ -1,0 +1,47 @@
+[
+   {
+      "name":"Agrolait",
+      "comment":false,
+      "id":8,
+      "country_id":[
+         21,
+         "Belgium"
+      ]
+   },
+   {
+      "name":"Camptocamp",
+      "comment":false,
+      "id":12,
+      "country_id":[
+         76,
+         "France"
+      ]
+   },
+   {
+      "name":"China Export",
+      "comment":false,
+      "id":9,
+      "country_id":[
+         49,
+         "China"
+      ]
+   },
+   {
+      "name":"My Company, Chicago",
+      "comment":false,
+      "id":47,
+      "country_id":[
+         235,
+         "United States"
+      ]
+   },
+   {
+      "name":"The Jackson Group",
+      "comment":false,
+      "id":11,
+      "country_id":[
+         235,
+         "United States"
+      ]
+   }
+]
